@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cesmac_labii"
+version = "0.1.0"
+description = "Laboratório de II - CESMAC"
+authors = [
+    { name = "own4rd" }
+]
+readme = "README.md"
+requires-python = ">=3.6"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/own
