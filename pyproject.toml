@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cesmac_labii"
 version = "0.1.0"
-description = "Laboratório de II - CESMAC"
+description = "Laboratorio de II - CESMAC"
 authors = [
     { name = "own4rd" }
 ]
@@ -15,4 +15,4 @@ license = { text = "MIT" }
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/own
+Homepage = "https://github.com/own4rd/cesmac_labii"
